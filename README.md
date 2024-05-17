@@ -8,7 +8,7 @@
   { "username": "heiheihei", "password": "shaibopengke", "panelnum": "3" }  
 ]
 ```
-> 其中`panelnum`参数为面板编号，即为你所收到注册邮件的`panel*.ct8.com`中的`*`数值。
+> 其中`panelnum`参数为面板编号，即为你所收到注册邮件的`panel*.ct8.com`中的`*`数值。上边是套用的Serv00的参数，因ct8无panelnum,所以留空。
 
 ## 贡献
 |姓名|主页|内容|
